@@ -1,0 +1,51 @@
+
+
+                               ** CUTTING LIST **
+
+          CUSTOMER: MRS. ELLIE BLOM
+
+          ORDER NO:                             JOB NO: 
+
+          NUMBER OF BOARDS REQUIRED: 3          BOARD SIZE: 2740 X 1820
+
+          TYPE OF MATERIAL: MEL WHITE 16MM 9X6  GRADE OF MATERIAL: 
+
+          CUTTING FACTOR: 10                    GRAIN: N
+
+          LENGTH  WIDTH  NUMBER  EDGING(L) EDGING(W)  HOLES
+
+            1080    300    6        1         1          
+             568    300    8        1                    
+             568    100    6        1                    
+                                                         
+            1080    300    1        1         1          
+             284   1080    1        1         1          
+             284    284    4        1         1          
+                                                         
+             720    450    2        1         1          
+             568    450    3        1                    
+             568    100    2        1                    
+                                                         
+             450    360    2        1         1          
+             568    450    2        1                    
+             568    100    2        1                    
+                                                         
+             870    560    2        1                    
+             868    560    2        1                    
+             868    100    3        1                    
+                                                         
+             870    560    2        1                    
+             568    560    2        1                    
+             568    100    3        1                    
+                                                         
+             178    594    1        2         2          
+             538    596    1        2         2         2
+                                                         
+
+
+          TOTAL EDGING REQUIRED: 44,792m        TYPE OF EDGING: 
+
+
+
+          7/9/2022     3:30
+
